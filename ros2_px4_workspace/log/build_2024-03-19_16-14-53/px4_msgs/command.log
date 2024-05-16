@@ -1,0 +1,6 @@
+Invoking command in '/home/ross/ros2_px4_workspace/build/px4_msgs': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/ross/ros2_px4_workspace/src/px4_msgs -DCMAKE_INSTALL_PREFIX=/home/ross/ros2_px4_workspace/install/px4_msgs
+Invoked command in '/home/ross/ros2_px4_workspace/build/px4_msgs' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/ross/ros2_px4_workspace/src/px4_msgs -DCMAKE_INSTALL_PREFIX=/home/ross/ros2_px4_workspace/install/px4_msgs
+Invoking command in '/home/ross/ros2_px4_workspace/build/px4_msgs': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ross/ros2_px4_workspace/build/px4_msgs -- -j12 -l12
+Invoked command in '/home/ross/ros2_px4_workspace/build/px4_msgs' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ross/ros2_px4_workspace/build/px4_msgs -- -j12 -l12
+Invoking command in '/home/ross/ros2_px4_workspace/build/px4_msgs': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/ross/ros2_px4_workspace/build/px4_msgs
+Invoked command in '/home/ross/ros2_px4_workspace/build/px4_msgs' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/ross/ros2_px4_workspace/build/px4_msgs

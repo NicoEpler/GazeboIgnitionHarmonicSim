@@ -1,0 +1,5 @@
+  File "/home/ross/ros2_px4_workspace/install/px4_offboard/lib/python3.10/site-packages/px4_offboard/processes.py", line 15
+    "cd && cd ~/PX4-Autopilot && PX4_GZ_WORLD=demo PX4_GZ_MODEL_POSE="0,0,0,0,0,0" make px4_sitl gz_x500",
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+SyntaxError: invalid syntax. Perhaps you forgot a comma?
+

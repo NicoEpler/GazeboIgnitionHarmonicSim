@@ -1,0 +1,37 @@
+[0.638s] Invoking command in '/home/ross/ros2_px4_workspace/src/ROS2_PX4_Offboard_Example/px4_offboard': AMENT_PREFIX_PATH=/home/ross/ros2_px4_workspace/install/px4_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ross/ros2_px4_workspace/install/px4_msgs LD_LIBRARY_PATH=/home/ross/ros2_px4_workspace/install/px4_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/ross/ros2_px4_workspace/build/px4_offboard/prefix_override:/home/ross/ros2_px4_workspace/install/px4_offboard/lib/python3.10/site-packages:/home/ross/ros2_px4_workspace/install/px4_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../build/px4_offboard build --build-base /home/ross/ros2_px4_workspace/build/px4_offboard/build install --record /home/ross/ros2_px4_workspace/build/px4_offboard/install.log --single-version-externally-managed install_data
+[0.839s] running egg_info
+[0.852s] writing ../../../build/px4_offboard/px4_offboard.egg-info/PKG-INFO
+[0.853s] writing dependency_links to ../../../build/px4_offboard/px4_offboard.egg-info/dependency_links.txt
+[0.853s] writing entry points to ../../../build/px4_offboard/px4_offboard.egg-info/entry_points.txt
+[0.853s] writing requirements to ../../../build/px4_offboard/px4_offboard.egg-info/requires.txt
+[0.853s] writing top-level names to ../../../build/px4_offboard/px4_offboard.egg-info/top_level.txt
+[0.881s] reading manifest file '../../../build/px4_offboard/px4_offboard.egg-info/SOURCES.txt'
+[0.881s] adding license file 'LICENSE'
+[0.882s] writing manifest file '../../../build/px4_offboard/px4_offboard.egg-info/SOURCES.txt'
+[0.882s] running build
+[0.882s] running build_py
+[0.882s] copying px4_offboard/__init__.py -> /home/ross/ros2_px4_workspace/build/px4_offboard/build/lib/px4_offboard
+[0.883s] copying px4_offboard/processes.py -> /home/ross/ros2_px4_workspace/build/px4_offboard/build/lib/px4_offboard
+[0.883s] copying px4_offboard/velocity_control.py -> /home/ross/ros2_px4_workspace/build/px4_offboard/build/lib/px4_offboard
+[0.883s] copying px4_offboard/runQGC.py -> /home/ross/ros2_px4_workspace/build/px4_offboard/build/lib/px4_offboard
+[0.884s] copying px4_offboard/visualizer.py -> /home/ross/ros2_px4_workspace/build/px4_offboard/build/lib/px4_offboard
+[0.884s] copying px4_offboard/control.py -> /home/ross/ros2_px4_workspace/build/px4_offboard/build/lib/px4_offboard
+[0.884s] running install
+[0.889s] running install_lib
+[0.903s] running install_data
+[0.903s] copying resource/px4_offboard -> /home/ross/ros2_px4_workspace/install/px4_offboard/share/ament_index/resource_index/packages
+[0.903s] copying resource/visualize.rviz -> /home/ross/ros2_px4_workspace/install/px4_offboard/share/ament_index/resource_index/packages
+[0.903s] copying package.xml -> /home/ross/ros2_px4_workspace/install/px4_offboard/share/px4_offboard
+[0.903s] copying launch/offboard_velocity_control.launch.py -> /home/ross/ros2_px4_workspace/install/px4_offboard/share/px4_offboard
+[0.903s] copying resource/visualize.rviz -> /home/ross/ros2_px4_workspace/install/px4_offboard/share/px4_offboard
+[0.903s] running install_egg_info
+[0.919s] removing '/home/ross/ros2_px4_workspace/install/px4_offboard/lib/python3.10/site-packages/px4_offboard-0.0.0-py3.10.egg-info' (and everything under it)
+[0.919s] Copying ../../../build/px4_offboard/px4_offboard.egg-info to /home/ross/ros2_px4_workspace/install/px4_offboard/lib/python3.10/site-packages/px4_offboard-0.0.0-py3.10.egg-info
+[0.920s] running install_scripts
+[1.047s] Installing control script to /home/ross/ros2_px4_workspace/install/px4_offboard/lib/px4_offboard
+[1.047s] Installing offboard_control script to /home/ross/ros2_px4_workspace/install/px4_offboard/lib/px4_offboard
+[1.047s] Installing processes script to /home/ross/ros2_px4_workspace/install/px4_offboard/lib/px4_offboard
+[1.047s] Installing velocity_control script to /home/ross/ros2_px4_workspace/install/px4_offboard/lib/px4_offboard
+[1.048s] Installing visualizer script to /home/ross/ros2_px4_workspace/install/px4_offboard/lib/px4_offboard
+[1.048s] writing list of installed files to '/home/ross/ros2_px4_workspace/build/px4_offboard/install.log'
+[1.066s] Invoked command in '/home/ross/ros2_px4_workspace/src/ROS2_PX4_Offboard_Example/px4_offboard' returned '0': AMENT_PREFIX_PATH=/home/ross/ros2_px4_workspace/install/px4_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ross/ros2_px4_workspace/install/px4_msgs LD_LIBRARY_PATH=/home/ross/ros2_px4_workspace/install/px4_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/ross/ros2_px4_workspace/build/px4_offboard/prefix_override:/home/ross/ros2_px4_workspace/install/px4_offboard/lib/python3.10/site-packages:/home/ross/ros2_px4_workspace/install/px4_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../build/px4_offboard build --build-base /home/ross/ros2_px4_workspace/build/px4_offboard/build install --record /home/ross/ros2_px4_workspace/build/px4_offboard/install.log --single-version-externally-managed install_data
